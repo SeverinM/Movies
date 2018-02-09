@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string-array name="items_name">
+        <item>Hot</item>
+        <item>Random</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
